@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+}
+
+header{
+    width: 100%;
+    height: 50px;
+    background-color: darkblue;
+
+}
+.nav{
+    width: 100%;
+    height: 25px;
+    text-align: center;
+    background-color: blueviolet;
+}
+.banner{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color: cyan;
+}
+.freture{
+    overflow: hidden;
+}
+.side_bar{
+    width: 20%;
+    height: 350px;
+    text-align: center;
+    background-color: brown;
+    float: left;
+
+}
+.Body_area{
+    width: 80%;
+    height: 350px;
+    text-align: center;
+    background-color: gold;
+    float: right;
+}
+footer{
+    width: 100%;
+    height: 25px;
+    background-color: darkred;
+    text-align: center;
+}
